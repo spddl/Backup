@@ -1,0 +1,12 @@
+{
+  "path": "D:\\save\\",
+  "interval": 60,
+  "files": [{
+    "name": "world123",
+    "path": "D:\\HelloWorld123"
+  },
+  {
+    "name": "kibana",
+    "path": "D:\\kibana-6.2.1"
+  }]
+}
